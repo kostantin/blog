@@ -1,0 +1,9 @@
+{
+    "name": "ssdpc/blog",
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes"
+        }
+    },
+    "require": {}
+}
